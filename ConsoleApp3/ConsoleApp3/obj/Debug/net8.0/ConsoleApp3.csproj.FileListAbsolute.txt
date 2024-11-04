@@ -1,0 +1,15 @@
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\oop\oop_2024\job\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
